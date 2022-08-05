@@ -1,4 +1,0 @@
-mcafee
-symantec
-cisco
-juniper
